@@ -124,7 +124,7 @@ Software Engineer, Backend Developer, Full Stack Developer, PHP Developer, Pytho
 
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOeQmx2A7ZT7pnFZ6rATAki7x0gec57X9e_u8UdO6iyQ&s" />
+  <img src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
 </p>
 ---
 
