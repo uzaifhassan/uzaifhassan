@@ -115,7 +115,7 @@ I enjoy building secure, scalable and user-friendly applications while continuou
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uzaifhassan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=uzaifhassan&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=uzaifhassan&theme=tokyonight&hide_border=true"/>
 
