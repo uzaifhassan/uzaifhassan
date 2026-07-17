@@ -127,7 +127,37 @@ Software Engineer, Backend Developer, Full Stack Developer, PHP Developer, Pytho
   <img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" width="60%" />
 </p>
 
+## 🏆 Achievements & Certifications
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineer-Certified-success?style=for-the-badge&logo=google-scholar&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Information%20Security-Certified-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Introduction%20to-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Responsive-Web%20Design-000000?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Google%20Cloud-Career%20Launchpad-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cybrary-Orientation-00A4EF?style=for-the-badge&logo=cyberdefenders&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Ethical-Hacking-darkred?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Android-App%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Google-Analytics-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Certificate%20of-Merit-blueviolet?style=for-the-badge&logo=academia&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Participation-Certificate-orange?style=for-the-badge&logo=medal&logoColor=white" />
+
+</p>
 
 ## 📈 GitHub Contribution Graph
 
