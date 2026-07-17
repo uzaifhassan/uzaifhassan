@@ -125,6 +125,7 @@ I enjoy building secure, scalable and user-friendly software solutions while con
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uzaifhassan&theme=tokyonight"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=uzaifhassan)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 ---
