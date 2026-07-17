@@ -124,7 +124,7 @@ Software Engineer, Backend Developer, Full Stack Developer, PHP Developer, Pytho
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uzaifhassan&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOeQmx2A7ZT7pnFZ6rATAki7x0gec57X9e_u8UdO6iyQ&s" />
 </p>
 ---
 
