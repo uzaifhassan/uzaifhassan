@@ -123,8 +123,9 @@ Software Engineer, Backend Developer, Full Stack Developer, PHP Developer, Pytho
 ## 🏆 GitHub Trophies
 
 
-
- [![trophy](https://github-profile-trophy.vercel.app/?uzaifhassan&theme=react-dark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" width="60%" />
+</p>
 
 
 
