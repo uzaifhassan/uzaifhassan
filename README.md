@@ -123,9 +123,9 @@ Software Engineer, Backend Developer, Full Stack Developer, PHP Developer, Pytho
 ## 🏆 GitHub Trophies
 
 
-<p align="center">
- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?uzaifhassan&theme=react-dark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## 📈 GitHub Contribution Graph
