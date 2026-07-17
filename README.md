@@ -1,45 +1,54 @@
 <h1 align="center">Hi 👋, I'm Uzaif Hassan</h1>
 
 <h3 align="center">
-Software Engineer | Backend Developer | Full Stack Developer | Data Analyst
+💻 Software Engineer | Backend Developer | Full Stack Developer | Data Analyst
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;PHP+%7C+Python+%7C+Java;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;PHP+%7C+Python+%7C+Java;REST+API+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=uzaifhassan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=uzaifhassan&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🎓 **Bachelor's in Software Engineering**  
-🏫 **Indus University**  
-📊 **CGPA: 3.34 / 4.00**
+🎓 **Bachelor's in Software Engineering**
 
-I'm a passionate Software Engineer with hands-on experience in **Backend Development**, **Full Stack Web Development**, **Software Testing (SQA)**, **REST API Development**, **Database Design**, and **Data Analytics**.
+🏫 **Indus University**
 
-I enjoy building secure, scalable and user-friendly applications while continuously learning modern technologies including AI, Cloud Computing and Cybersecurity.
+📊 **CGPA:** **3.34 / 4.00**
+
+💻 Passionate Software Engineer specializing in
+
+- Backend Development
+- Full Stack Web Development
+- REST API Development
+- Software Quality Assurance (SQA)
+- Database Design
+- Data Analytics
+
+I love building scalable, secure and user-friendly applications while continuously learning modern technologies like AI, Cloud Computing and Cybersecurity.
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Current Focus
 
-- 🌐 Full Stack Web Development
-- 💻 Backend Development
-- 📊 Data Analytics & Visualization
+- 🌐 Full Stack Development
+- 💻 Backend Engineering
+- 📊 Data Analytics
 - 🤖 Artificial Intelligence
 - ☁️ Cloud Computing
 - 🔒 Cybersecurity
 - 📱 REST APIs
-- 🧹 Clean Code & Software Architecture
+- 📈 Clean Architecture
 
 ---
 
-# 💻 Programming Languages
+# 💻 Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,7 +60,7 @@ I enjoy building secure, scalable and user-friendly applications while continuou
 
 ---
 
-# 🌐 Web Development
+# 🌐 Web Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -64,7 +73,7 @@ I enjoy building secure, scalable and user-friendly applications while continuou
 
 ---
 
-# 🗄️ Database
+# 🗄 Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb)
@@ -74,35 +83,47 @@ I enjoy building secure, scalable and user-friendly applications while continuou
 
 # 📊 Data Analytics
 
-- Pandas
-- NumPy
-- Matplotlib
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+✔ Pandas
+
+✔ NumPy
+
+✔ Matplotlib
+
+✔ Data Cleaning
+
+✔ Data Visualization
+
+✔ Exploratory Data Analysis (EDA)
 
 ---
 
 # 🧪 Software Testing
 
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- Test Case Design
-- Bug Reporting
-- SDLC
-- STLC
-- Debugging
+✔ Manual Testing
+
+✔ Functional Testing
+
+✔ Regression Testing
+
+✔ Bug Reporting
+
+✔ Test Cases
+
+✔ SDLC
+
+✔ STLC
+
+✔ Debugging
 
 ---
 
-# 🛠️ Tools
+# ⚙ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-34A853?style=for-the-badge&logo=androidstudio)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Android Studio](https://img.shields.io/badge/Android_Studio-34A853?style=for-the-badge&logo=androidstudio)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
@@ -111,13 +132,13 @@ I enjoy building secure, scalable and user-friendly applications while continuou
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=uzaifhassan&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=uzaifhassan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=uzaifhassan&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=uzaifhassan&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -127,7 +148,17 @@ I enjoy building secure, scalable and user-friendly applications while continuou
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzaifhassan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzaifhassan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=uzaifhassan&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -141,7 +172,7 @@ I enjoy building secure, scalable and user-friendly applications while continuou
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:uzaifhassan852@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -159,30 +190,32 @@ I enjoy building secure, scalable and user-friendly applications while continuou
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 2026 Goals
 
-- 🚀 Become a Professional Backend Engineer
-- 🌍 Contribute to Open Source
-- ☁️ Master Cloud Computing
-- 🤖 Build AI-Powered Applications
-- 🔒 Strengthen Cybersecurity Skills
+🚀 Become a Professional Backend Engineer
+
+🤖 Build AI Powered Applications
+
+☁️ Learn AWS & Azure
+
+🌍 Contribute to Open Source
+
+🔒 Master Cybersecurity
+
+📈 Improve Problem Solving Skills
 
 ---
 
 # 💬 Favorite Quote
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+> "Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson
 
 ---
 
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
 <p align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
 If you like my work, don't forget to ⭐ my repositories.
-
 </p>
-
-
-
-is ko proper designing me banao read me meri with images lago tropies
