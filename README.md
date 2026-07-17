@@ -122,8 +122,10 @@ Software Engineer, Backend Developer, Full Stack Developer, PHP Developer, Pytho
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=uzaifhassan&theme=algolia&margin-w=15&margin-h=15)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uzaifhassan&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" />
+</p>
 ---
 
 ## 📈 GitHub Contribution Graph
